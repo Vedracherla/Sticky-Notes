@@ -26,3 +26,9 @@ To run this project, you need:
 
 - A web browser (Chrome, Firefox, etc.)
 - Basic knowledge of HTML, CSS, and JavaScript (optional)
+
+### Installation
+
+Clone the repository:
+    ```bash
+   git clone https://github.com/Vedracherla/Sticky-Notes.git
