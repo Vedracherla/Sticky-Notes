@@ -1,4 +1,5 @@
 # Sticky-Notes
+[Live Link](https://vedracherla.github.io/Sticky-Notes/)
 ## Overview
 
 The Sticky Notes project is a simple web application that allows users to create and delete virtual sticky notes. This project is designed to help users organize their thoughts, tasks, and reminders in a visually appealing and user-friendly interface.
